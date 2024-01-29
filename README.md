@@ -1,11 +1,11 @@
-**Datasource :**
-Scrapped all the data regarding match and world cup from www.espncricinfo.com and all details of player career performace and collect data on brightdata.
+**Data Source: **
+Extracted data on matches and World Cup details from www.espncricinfo.com, and gathered information on players' career performance from BrightData.
 
-**Data Collection:**
-Scrapped all the data regarding match and world cup and all details about players career from brightdata using Beautiful Soup library and Jupyter Notebook is used to convert the json files into the dataframes and then these dataframes into csv file for further data analysis on Power BI.
+**Data Collection: **
+Utilized Beautiful Soup library and Jupyter Notebook to scrape data from BrightData. Converted the obtained JSON files into dataframes in Jupyter Notebook and then saved these dataframes as CSV files for further analysis in Power BI.
 
-**Data Transformation:**
-Performed initial data cleaning after scrapping such as player name correction, handle missing value, match id linking etc. using Pandas. Transformed the final data for dashboard using Power Query of Power BI.
+**Data Transformation:** 
+Conducted initial data cleaning post-scraping, including tasks such as correcting player names, handling missing values, and linking match IDs using Pandas. Transformed the final dataset for dashboard creation using Power Query in Power BI.
 
-**Data Modelling:**
-Connected all the datasets with based on some defined primary keys such as team and match ids. Also, created many measures, calculated columns and parameters for data analysis and dash boarding using DAX.
+**Data Modeling: **
+Established connections between datasets based on defined primary keys like team and match IDs. Additionally, formulated various measures, calculated columns, and parameters using DAX for comprehensive data analysis and dashboard creation in Power BI.
