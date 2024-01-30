@@ -10,6 +10,8 @@ Conducted initial data cleaning post-scraping, including tasks such as correctin
 **Data Modeling:**
 Established connections between datasets based on defined primary keys like team and match IDs. Additionally, formulated various measures, calculated columns, and parameters using DAX for comprehensive data analysis and dashboard creation in Power BI.
 
+Created many measures for the dataset for data analysis. (Measures are there in Excel sheet)
+
 Data visualization for the dataset is done using Power BI :
 
 **1. Openers**
