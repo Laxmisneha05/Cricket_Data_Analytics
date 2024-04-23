@@ -26,8 +26,4 @@ Data visualization for the dataset is done using Power BI :
 
 ![image](https://github.com/Laxmisneha05/Cricket_Data_Analytics/assets/113546595/6cf5dd02-b066-482c-a8a2-dd95d3664a10)
 
-
-**References:**
-https://www.youtube.com/watch?v=4QkYy1wANXA&t=0s
-
    
